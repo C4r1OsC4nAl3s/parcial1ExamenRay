@@ -1,0 +1,31 @@
+Alcance:
+
+El proyecto solicitado por Parra’s Dev consiste en desarrollar una aplicación web tipo ToDo para llevar un control eficiente
+y profesional de las tareas de auditoría que su equipo realiza sobre las aplicaciones móviles de su inventario de servicios y productos.
+La aplicación debe permitir la supervisión del progreso de las auditorías con el objetivo de mejorar la calidad de sus servicios.
+El desarrollo debe cumplir con los estándares de calidad requeridos para ser considerado un desarrollo web profesional, garantizando la 
+precisión y confiabilidad de la información, lo cual es fundamental para la toma de decisiones en la empresa.
+
+Descripción del programa:
+
+El programa es una aplicación web tipo ToDo que permite gestionar y supervisar las tareas pendientes del equipo de auditores de Parra’s Dev.
+Su objetivo principal es facilitar el seguimiento de las auditorías de aplicaciones móviles, optimizando el control y la visibilidad del estado de cada tarea.
+La aplicación permite a los auditores añadir, editar, marcar como completadas y eliminar tareas, brindando una interfaz simple pero efectiva para gestionar el flujo de trabajo.
+
+La aplicación está diseñada para mejorar la eficiencia en la auditoría de aplicaciones móviles, permitiendo a los supervisores observar el progreso en tiempo real.
+Además, la aplicación genera listas actualizadas y organizadas de las auditorías pendientes, lo que facilita la toma de decisiones dentro de Parra’s Dev al tener información clara y precisa del estado de las auditorías.
+
+En términos de funcionalidad, el sistema ofrece:
+
+    Creación de tareas: Los usuarios pueden agregar nuevas tareas de auditoría con detalles específicos.
+    Gestión de tareas: Las tareas pueden ser modificadas, marcadas como completadas o eliminadas según sea necesario.
+    Monitoreo del estado: Permite un seguimiento efectivo del avance de las tareas en auditoría.
+
+Este sistema es clave para mejorar la calidad del servicio de Parra’s Dev y es desarrollado siguiendo los principios de calidad y buenas prácticas del desarrollo web profesional.
+
+
+link: www.myportfoliohub.top/proyecto4/
+
+credenciales de acceso [login]:
+user: bancer
+pass: 123
