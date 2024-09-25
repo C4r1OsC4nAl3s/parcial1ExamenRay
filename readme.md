@@ -1,6 +1,6 @@
-Solo utilizar archivos: <br>
-documentacion: alcanceDescripcionLink
-pruebas: archivoCajaBlanca.py
+Solo utilizar estos archivos: <br>
+Documentacion: alcanceDescripcionLink <br>
+Pruebas: archivoCajaBlanca.py
 
 
 
